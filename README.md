@@ -1,5 +1,4 @@
-<!-- ═══════════════════ INTRO ═══════════════════ -->
-
+<!-- INTRO -->
 <div align="center">
 
 # 👋 Hey there, I'm Krishnendu Sarkar!
@@ -8,7 +7,7 @@
 
 **Turning ideas into interactive, user-friendly web experiences.**
 
-I’m a Computer Science graduate who enjoys building responsive web applications, improving user experiences, and solving practical problems through code.
+I'm a Computer Science graduate who enjoys building responsive web applications, improving user experiences, and solving practical problems through code.
 
 🌱 My strongest foundation is in **HTML, CSS, JavaScript, and React.js**  
 ⚡ Currently expanding my skills with **Node.js, Express.js, and MongoDB**  
@@ -22,17 +21,13 @@ I’m a Computer Science graduate who enjoys building responsive web application
 
 ---
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
 ## 🚀 Things I've Been Building
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📄 PDFly</h3>
+### 📄 PDFly
 
 A browser-based PDF toolkit designed to make everyday PDF tasks easier through a modern web interface.
 
@@ -48,7 +43,7 @@ A browser-based PDF toolkit designed to make everyday PDF tasks easier through a
 </td>
 <td width="50%" valign="top">
 
-<h3>🧳 TripSplit</h3>
+### 🧳 TripSplit
 
 An expense-management application designed to organize trip expenses, calculate balances, and help users manage settlements.
 
@@ -63,23 +58,32 @@ An expense-management application designed to organize trip expenses, calculate 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<h3>🤝 IntellMeet</h3>
+### 🤝 IntellMeet
 
 A collaborative meeting-platform project exploring real-time communication and AI-related functionality.
 
+**🧰 Project Focus**
+
+Real-time collaboration and AI-related functionality.
+
 [**🔗 Explore IntellMeet →**](https://github.com/Krishnendu1910/intellmeet)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+Explore my repositories for additional experiments, practice projects, and development work.
+
+[**🔗 Browse All Repositories →**](https://github.com/Krishnendu1910?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## 🛠️ My Developer Toolkit
 
@@ -107,8 +111,6 @@ A collaborative meeting-platform project exploring real-time communication and A
 
 ---
 
-<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
-
 ## 🎯 What I'm Focusing On
 
 - ⚛️ Strengthening my React.js and frontend development skills
@@ -118,24 +120,26 @@ A collaborative meeting-platform project exploring real-time communication and A
 
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
 ## 📊 My GitHub Activity
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishnendu1910&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Krishnendu's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu1910&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnendu1910&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Krishnendu's GitHub statistics" />
 
-<br/>
+</td>
+<td width="50%" align="center" valign="top">
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Krishnendu1910&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu1910&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <div align="center">
 
